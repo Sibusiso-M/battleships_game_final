@@ -6,3 +6,4 @@ HTML, CSS, Javascript
 
 ### Game Over ###
     The game is complete when three ships are sunk.
+![alt text](GameScreenshot.jpg)
