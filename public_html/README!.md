@@ -6,3 +6,5 @@
 
 ### Cheat ###
 To see ship object location in console: 'model.ships'.
+
+![alt text](../GameScreenshot.jpg)
