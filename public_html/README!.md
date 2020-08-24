@@ -3,3 +3,6 @@
 
 ### Game Over ###
     The game is complete when three ships are sunk.
+
+### Cheat ###
+To see ship object location in console: 'model.ships'.
